@@ -1,7 +1,16 @@
 {
-  "name": "sites-project",
+  "name": "hackmate",
   "version": "0.1.0",
   "private": true,
+  "description": "Find compatible teammates, form balanced hackathon teams, and collaborate in one focused workspace.",
+  "homepage": "https://hackmate-build-together.varsham-even-1821.chatgpt.site",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varun-66611/hackmate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varun-66611/hackmate/issues"
+  },
   "engines": {
     "node": ">=22.13.0"
   },
